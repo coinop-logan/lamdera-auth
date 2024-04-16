@@ -1,3 +1,5 @@
+A temporary fork of https://github.com/lamdera/auth
+
 # Lamdera Auth
 
 This library is a work in progress! We hope to clean up the API some more before a formal release.
